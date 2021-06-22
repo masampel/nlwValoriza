@@ -1,0 +1,10 @@
+{
+    "name": "package.json",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "description": "json",
+    "repository": "https://github.com/masampel/nlwValoriza",
+    "author": "Marcele Sampel",
+    "private": true
+}
